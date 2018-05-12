@@ -1,0 +1,36 @@
+_repo: Zur-Geschichte-der-Theorie-der-Elliptischen-TranscendentenIn-den-Jahren-1826-29_30005
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Koenigsberger, Leo
+    aliases:
+    - Konigsberger, Leo
+    - Königsberger, Leo
+    - Koenigsberger, L. (Leo)
+    birthdate: 1837
+    deathdate: 1921
+    gutenberg_agent_id: '34304'
+    url: http://www.gutenberg.org/2009/agents/34304
+    wikipedia: http://de.wikipedia.org/wiki/Leo_Koenigsberger
+description: ''
+gutenberg_bookshelf:
+- DE Sachbuch
+- Mathematics
+gutenberg_issued: '2009-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30005'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Elliptic functions'
+- !lcc 'QA'
+title: 'Zur Geschichte der Theorie der Elliptischen Transcendenten
+
+  In den Jahren 1826-29'
+url: http://www.gutenberg.org/ebooks/30005
