@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34304
     wikipedia: http://de.wikipedia.org/wiki/Leo_Koenigsberger
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30005#Zur-Geschichte-der-Theorie-der-Elliptischen-TranscendentenIn-den-Jahren-1826-29
 gutenberg_bookshelf:
 - DE Sachbuch
 - Mathematics
